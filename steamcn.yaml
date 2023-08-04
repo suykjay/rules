@@ -3,6 +3,11 @@ payload:
   - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN-SUFFIX,steamusercontent.com
   - DOMAIN-SUFFIX,steamstatic.com
+  - DOMAIN,steampipe.akamaized.net
+  - DOMAIN,steampipe-kr.akamaized.net
+  - DOMAIN,steampipe-partner.akamaized.net
+  - DOMAIN-SUFFIX,qtlglb.com
+  - DOMAIN-SUFFIX,concast.net
   - DOMAIN,csgo.wmsj.cn
   - DOMAIN,dl.steam.clngaa.com
   - DOMAIN,dl.steam.ksyna.com
