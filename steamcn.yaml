@@ -2,6 +2,7 @@
 payload:
   - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN-SUFFIX,steamusercontent.com
+  - DOMAIN-SUFFIX,steamstatic.com
   - DOMAIN,csgo.wmsj.cn
   - DOMAIN,dl.steam.clngaa.com
   - DOMAIN,dl.steam.ksyna.com
