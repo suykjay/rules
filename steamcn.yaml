@@ -1,5 +1,6 @@
 # NAME: SteamCN
 payload:
+  - DOMAIN-SUFFIX,steamserver.net
   - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN-SUFFIX,steamusercontent.com
   - DOMAIN-SUFFIX,steamstatic.com
