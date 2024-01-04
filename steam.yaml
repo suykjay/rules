@@ -1,6 +1,4 @@
 # NAME: Steam
-# 自用规则，代理了steamserver.net以修改Steam客户端区域和登陆区域。
-# 代理登录区域会导致下载游戏时也会代理（国际CDN），可以使用Steam下载CDN重定向解决。如果不需要可以删除掉
 payload:
   - DOMAIN,f3b7q2p3.ssl.hwcdn.net
   - DOMAIN,steammobile.akamaized.net
@@ -32,8 +30,6 @@ payload:
   - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,steampowered.com.8686c.com
   - DOMAIN-SUFFIX,steamstat.us
-  - DOMAIN-SUFFIX,steamserver.net
-  - DOMAIN-SUFFIX,steamstatic.com
   - DOMAIN-SUFFIX,steamstatic.com.8686c.com
   - DOMAIN-SUFFIX,steamstore-a.akamaihd.net
   - DOMAIN-SUFFIX,steamunlocked.net
